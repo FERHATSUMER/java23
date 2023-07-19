@@ -1,4 +1,5 @@
-public class FirstDay{
+package FirstDay;
+public class FirstLessen{
     public static void main(String[] args){
         System.out.println("Hello World");
     String name = "Ferhat";
@@ -38,11 +39,6 @@ public class FirstDay{
     for(int i=0; i<krediler.length; i++){
         System.out.println(krediler[i]);
     }
-
-
-
-
-
 }
 
 
