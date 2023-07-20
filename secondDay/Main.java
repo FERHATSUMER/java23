@@ -26,5 +26,10 @@ public class Main {
         product3.imageUrl="herhangiBirResim3.jpg";
         
         System.out.println(product3.name);
+
+    for(    Product product : products){
+        System.out.println(product.name);
+
     }
 }
+ 
